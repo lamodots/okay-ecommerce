@@ -1,5 +1,6 @@
 ### **E-commerce Accessories & Fashion Items**
 
+<img src="./okaycom.PNG" alt="ecom by lamodot">
 A modern e-commerce web application tailored for fashion enthusiasts! This project provides a seamless shopping experience with powerful features that make browsing and purchasing accessories and fashion items easier than ever. 🛍️✨
 
 ### **Features**
@@ -35,6 +36,6 @@ npm start
 - 🌟 User authentication and profiles
 - 🌟 Order tracking and payment integration
 
-**Live Demo** (if available): [Insert Link]
+**Live Demo** (Link): [https://okay-ecommerce.onrender.com]
 
 Transform your shopping experience with our E-commerce platform! 🌟
